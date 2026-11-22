@@ -1,0 +1,8 @@
+{
+  "name": "tidy",
+  "version": "0.1.0",
+  "desc": "Organize and inspect messy directories from the terminal.",
+  "deps": ["typer", "rich"],
+  "entry": "main.py",
+  "python_requires": ">=3.12"
+}

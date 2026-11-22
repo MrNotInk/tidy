@@ -1,0 +1,2 @@
+0.1.0
+- Initial tidy CLI: safe sorting with undo journal, duplicate detection, and reports.

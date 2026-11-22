@@ -1,0 +1,9 @@
+tidy — organize and inspect messy directories from the terminal.
+
+Commands:
+  tidy sort PATH [--by ext|date|type] [--dry-run]
+  tidy dupes PATH [--min-size BYTES] [--delete] [--dry-run]
+  tidy report PATH
+
+Use `tidy --help` or see the repository's README.md for full usage, examples,
+and safety details.
